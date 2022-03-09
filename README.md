@@ -1,1 +1,3 @@
-# DM
+北理工数据挖掘互评作业1
+
+选择的数据集为Oakland Crime Statistics 2011 to 2016和Wine Reviews
